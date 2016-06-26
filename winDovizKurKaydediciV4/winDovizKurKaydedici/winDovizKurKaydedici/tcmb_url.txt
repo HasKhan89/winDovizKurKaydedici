@@ -1,0 +1,7 @@
+﻿Bugünün kurunu veren adres..
+http://www.tcmb.gov.tr/kurlar/today.xml
+
+Geçmiş zaman kurunu veren adres..
+http://www.tcmb.gov.tr/kurlar/201601/07012016.xml
+Formatı..
+http://www.tcmb.gov.tr/kurlar/{yıl}{ay}/{gun}{ay}{yıl}.xml
